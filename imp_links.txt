@@ -1,0 +1,5 @@
+https://www.quora.com/How-is-machine-learning-used-in-genomics
+https://www.biostat.wisc.edu/bmi576/papers/molla.pdf
+http://www.ncbi.nlm.nih.gov/pubmed/25948244
+http://www.psi.toronto.edu/publications/2015/Machine%20Learning%20in%20Genomic%20Medicine-%20A%20Review%20of%20Computational%20Problems%20and%20Data%20Sets.pdf
+http://www.nature.com/nrg/journal/v16/n6/pdf/nrg3920.pdf
